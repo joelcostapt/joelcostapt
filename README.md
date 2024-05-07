@@ -33,6 +33,7 @@
 ![LUA](https://img.shields.io/badge/LUA-1D11E3?style=for-the-badge&logo=lua)
 ![WORDPRESS](https://img.shields.io/badge/WORDPRESS-59595F?style=for-the-badge&logo=wordpress)
 ![PRESTASHOP](https://img.shields.io/badge/PRESTASHOP-4A4A87?style=for-the-badge&logo=prestashop)
+![SHOPIFY](https://img.shields.io/badge/SHOPIFY-18A946?style=for-the-badge&logo=shopify&logoColor=white)
 
 <br>
 
