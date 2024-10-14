@@ -3,7 +3,7 @@
 </div>
 <h3>Hello there! 👋</h3>
 <h3 >👉 I'm Joel Costa! (start.dev)</h3>
-<p>• I'm a passionate developer with 5 years of experience.</p>
+<p>• I'm a passionate developer with 3 years of experience.</p>
 <p>• Websites, FiveM scripts and Minecraft plugins are my area of expertise.</p>
 <p>• Turning ideas into digital reality!</p>
 
